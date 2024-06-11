@@ -1,2 +1,2 @@
 # Students-Scores
-This is a personal project using a dataset called "Students' Score". This was created by using various Python libraries. 
+This personal project uses a dataset called "Students' Score". This was created by using various Python libraries. There's another version of this project that uses Tableau. 
